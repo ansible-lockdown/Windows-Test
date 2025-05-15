@@ -1,4 +1,4 @@
-# Windows 10 DISA STIG
+# Windows TEST DISA STIG
 
 ## Configure a Windows 10 Enterprise system to be [DISA STIG](https://public.cyber.mil/stigs/downloads/) compliant.
 
@@ -9,49 +9,49 @@
 ## Public Repository 📣
 
 ![Org Stars](https://img.shields.io/github/stars/ansible-lockdown?label=Org%20Stars&style=social)
-![Stars](https://img.shields.io/github/stars/ansible-lockdown/Windows-10-STIG?label=Repo%20Stars&style=social)
-![Forks](https://img.shields.io/github/forks/ansible-lockdown/Windows-10-STIG?style=social)
+![Stars](https://img.shields.io/github/stars/ansible-lockdown/Windows-Test?label=Repo%20Stars&style=social)
+![Forks](https://img.shields.io/github/forks/ansible-lockdown/Windows-Test?style=social)
 ![Followers](https://img.shields.io/github/followers/ansible-lockdown?style=social)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AnsibleLockdown.svg?style=social&label=Follow%20%40AnsibleLockdown)](https://twitter.com/AnsibleLockdown)
 ![Discord Badge](https://img.shields.io/discord/925818806838919229?logo=discord)
 <!-- ![Ansible Galaxy Quality](https://img.shields.io/ansible/quality/61846?label=Quality&&logo=ansible) -->
 
-![License](https://img.shields.io/github/license/ansible-lockdown/Windows-10-STIG?label=License)
+![License](https://img.shields.io/github/license/ansible-lockdown/Windows-Test?label=License)
 
 ## Lint & Pre-Commit Tools 🔧
 
-[![Pre-Commit.ci](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-10-STIG/pre-commit-ci.json)](https://results.pre-commit.ci/latest/github/ansible-lockdown/Windows-10-STIG/devel)
+[![Pre-Commit.ci](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-Test/pre-commit-ci.json)](https://results.pre-commit.ci/latest/github/ansible-lockdown/Windows-Test/devel)
 ![YamlLint](https://img.shields.io/badge/yamllint-Present-brightgreen?style=flat&logo=yaml&logoColor=white)
 ![Ansible-Lint](https://img.shields.io/badge/ansible--lint-Present-brightgreen?style=flat&logo=ansible&logoColor=white)
 
 ## Community Release Information 📂
 
 ![Release Branch](https://img.shields.io/badge/Release%20Branch-Main-brightgreen)
-![Release Tag](https://img.shields.io/github/v/tag/ansible-lockdown/Windows-10-STIG?label=Release%20Tag&&color=success)
-![Main Release Date](https://img.shields.io/github/release-date/ansible-lockdown/Windows-10-STIG?label=Release%20Date)
-![Benchmark Version Main](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-10-STIG/benchmark-version-main.json)
-![Benchmark Version Devel](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-10-STIG/benchmark-version-devel.json)
+![Release Tag](https://img.shields.io/github/v/tag/ansible-lockdown/Windows-Test?label=Release%20Tag&&color=success)
+![Main Release Date](https://img.shields.io/github/release-date/ansible-lockdown/Windows-Test?label=Release%20Date)
+![Benchmark Version Main](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-Test/benchmark-version-main.json)
+![Benchmark Version Devel](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Windows-Test/benchmark-version-devel.json)
 
-[![Main Pipeline Status](https://github.com/ansible-lockdown/Windows-10-STIG/actions/workflows/main_pipeline_validation.yml/badge.svg?)](https://github.com/ansible-lockdown/Windows-10-STIG/actions/workflows/main_pipeline_validation.yml)
+[![Main Pipeline Status](https://github.com/ansible-lockdown/Windows-Test/actions/workflows/main_pipeline_validation.yml/badge.svg?)](https://github.com/ansible-lockdown/Windows-Test/actions/workflows/main_pipeline_validation.yml)
 
-[![Devel Pipeline Status](https://github.com/ansible-lockdown/Windows-10-STIG/actions/workflows/devel_pipeline_validation.yml/badge.svg?)](https://github.com/ansible-lockdown/Windows-10-STIG/actions/workflows/devel_pipeline_validation.yml)
+[![Devel Pipeline Status](https://github.com/ansible-lockdown/Windows-Test/actions/workflows/devel_pipeline_validation.yml/badge.svg?)](https://github.com/ansible-lockdown/Windows-Test/actions/workflows/devel_pipeline_validation.yml)
 
-![Devel Commits](https://img.shields.io/github/commit-activity/m/ansible-lockdown/Windows-10-STIG/devel?color=dark%20green&label=Devel%20Branch%20Commits)
-![Open Issues](https://img.shields.io/github/issues-raw/ansible-lockdown/Windows-10-STIG?label=Open%20Issues)
-![Closed Issues](https://img.shields.io/github/issues-closed-raw/ansible-lockdown/Windows-10-STIG?label=Closed%20Issues&&color=success)
-![Pull Requests](https://img.shields.io/github/issues-pr/ansible-lockdown/Windows-10-STIG?label=Pull%20Requests)
+![Devel Commits](https://img.shields.io/github/commit-activity/m/ansible-lockdown/Windows-Test/devel?color=dark%20green&label=Devel%20Branch%20Commits)
+![Open Issues](https://img.shields.io/github/issues-raw/ansible-lockdown/Windows-Test?label=Open%20Issues)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/ansible-lockdown/Windows-Test?label=Closed%20Issues&&color=success)
+![Pull Requests](https://img.shields.io/github/issues-pr/ansible-lockdown/Windows-Test?label=Pull%20Requests)
 
 ---
 
 ## Subscriber Release Information 🔐
 
-![Private Release Branch](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-10-STIG/release-branch.json)
-![Private Benchmark Version](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-10-STIG/benchmark-version.json)
+![Private Release Branch](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-Test/release-branch.json)
+![Private Benchmark Version](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-Test/benchmark-version.json)
 
-[![Private Remediate Pipeline](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-10-STIG/remediate.json)](https://github.com/ansible-lockdown/Private-Windows-10-STIG/actions/workflows/main_pipeline_validation.yml)
+[![Private Remediate Pipeline](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-Test/remediate.json)](https://github.com/ansible-lockdown/Private-Windows-Test/actions/workflows/main_pipeline_validation.yml)
 
-![Private Pull Requests](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-10-STIG/prs.json)
-![Private Closed Issues](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-10-STIG/issues-closed.json)
+![Private Pull Requests](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-Test/prs.json)
+![Private Closed Issues](https://img.shields.io/endpoint?url=https://ansible-lockdown.github.io/github_windows_IaC/badges/Private-Windows-Test/issues-closed.json)
 
 ---
 
