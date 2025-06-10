@@ -2,7 +2,7 @@
 
 ## Configure a Windows 10 Enterprise system to be [DISA STIG](https://public.cyber.mil/stigs/downloads/) compliant.
 
-### Based on [ Windows DISA STIG Version 3, Rel 11 released on April 2nd, 2025 ](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_V3R4_STIG.zip)
+### Based on [ Windows DISA STIG Version 3, Rel 20 released on April 2nd, 2025 ](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_V3R4_STIG.zip)
 
 ---
 
