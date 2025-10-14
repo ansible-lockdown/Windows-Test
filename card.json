@@ -1,0 +1,51 @@
+{
+  "attachments": [
+    {
+      "contentType": "application/vnd.microsoft.card.adaptive",
+      "content": {
+        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+        "type": "AdaptiveCard",
+        "version": "1.4",
+        "body": [
+          {
+            "type": "TextBlock",
+            "size": "Large",
+            "weight": "Bolder",
+            "text": "🚀 Tracking initiated"
+          },
+          {
+            "type": "TextBlock",
+            "size": "Large",
+            "weight": "Bolder",
+            "wrap": true,
+            "text": "Private-Windows-Test has entered the promotion queue."
+          },
+          {
+            "type": "TextBlock",
+            "text": "The v1.2.4 release has entered its 90-day review window and is now being tracked for public publication.",
+            "wrap": true,
+            "spacing": "Medium"
+          },
+          {
+            "type": "FactSet",
+            "facts": [
+              { "title": "🔒 Private Repo:", "value": "ansible-lockdown/Private-Windows-Test" },
+              { "title": "📦 Private Version:", "value": "v1.2.4" },
+              { "title": " " },
+              { "title": "🌐 Public Target:", "value": "ansible-lockdown/Windows-Test" },
+              { "title": "📦 Public Version:", "value": "v1.2.3" },
+              { "title": " " },
+              { "title": "📅 Promotion In:", "value": "90 days" }
+            ]
+          },
+          {
+            "type": "TextBlock",
+            "text": "⏳ Please ensure the public repo is ready for promotion.",
+            "wrap": true,
+            "spacing": "Medium"
+          }
+        ]
+      }
+    }
+  ]
+}
